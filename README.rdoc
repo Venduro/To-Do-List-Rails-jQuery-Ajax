@@ -3,7 +3,7 @@ A simple Rails app that allows you to create a to do list using jQuery and Ajax.
 
 Current State:
 
-https://cloud.githubusercontent.com/assets/16400460/14407076/e29e663a-fe70-11e5-87d4-ac5502bfe8c5.png
+![to-do-list](https://cloud.githubusercontent.com/assets/16400460/14407076/e29e663a-fe70-11e5-87d4-ac5502bfe8c5.png)
 
 How to run the app:
 1. Open Terminal and Clone the repo
