@@ -1,5 +1,6 @@
 == README
 A simple Rails app that allows you to create a to do list using jQuery and Ajax.
+
 How to run the app:
 1. Open Terminal and Clone the repo
     $ git clone https://github.com/Venduro/To-Do-List-Rails-jQuery-Ajax.git
@@ -10,30 +11,3 @@ How to run the app:
 4. Start the local server
     $rails s
 5. Open the browser and go to http://localhost:3000/
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
